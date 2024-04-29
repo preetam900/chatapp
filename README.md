@@ -5,3 +5,5 @@
 # 🚀 Online user status (Socket.io and React Context)
 # 👌 Global state management with Zustand
 # 🐞 Error handling both on the server and on the client
+
+# Setup .env file (PORT=...;MONGO_DB_URI=...;JWT_SECRET=...;NODE_ENV=..)
